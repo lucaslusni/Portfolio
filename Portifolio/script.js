@@ -1,10 +1,3 @@
-// Scroll suave para as seções
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-      e.preventDefault();
-      document.querySelector(this.getAttribute('href')).scrollIntoView({
-        behavior: 'smooth'
-      });
-    });
-  });
-  
+const year = document.getElementById('year');
+if (year) year.textContent = String(new Date().getFullYear());
+
