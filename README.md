@@ -5,7 +5,7 @@ Site pessoal com foco em desenvolvimento full stack usando JavaScript, TypeScrip
 ## Conteúdo
 
 - Apresentação profissional e tecnologias.
-- Projetos reais: Vexel, concorrência em Node.js e Monsten.
+- Projetos reais: Vexel, Controle de Acervo Racnegê, concorrência em Node.js e Monsten.
 - Links para os repositórios, LinkedIn e e-mail.
 - Layout responsivo, navegação por teclado e respeito à preferência de movimento reduzido.
 
@@ -35,5 +35,5 @@ Abra http://localhost:8000. O arquivo da raiz redireciona para `Portifolio/`.
 
 A raiz pode ser servida por uma hospedagem estática. Para GitHub Pages, selecione a branch desejada e a pasta raiz nas configurações do repositório. A configuração de hospedagem não é ativada por estes arquivos.
 
-Os links dos projetos apontam para o código-fonte, não para demonstrações públicas que ainda não foram verificadas.
+Os links dos projetos apontam para o código-fonte, não para demonstrações públicas que ainda não foram verificadas. O [Controle de Acervo Racnegê](https://github.com/lucaslusni/Tcc-Controle-acervo-racnege) inclui backend Fastify/Prisma, frontend React e migrações PostgreSQL.
 
